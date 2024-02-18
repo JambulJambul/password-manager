@@ -1,0 +1,53 @@
+{
+  "password": [
+    {
+      "id": "1",
+      "provider": "phincon.com",
+      "email": "mail@phincon.com",
+      "password": "Bethebest123",
+      "category": "personal"
+    },
+    {
+      "id": "2",
+      "provider": "phincon.com",
+      "email": "mail@phincon.com",
+      "password": "Bethebest123",
+      "category": "family"
+    },
+    {
+      "id": "3",
+      "provider": "phincon.com",
+      "email": "mail@phincon.com",
+      "password": "Bethebest123",
+      "category": "work"
+    },
+    {
+      "id": "4",
+      "provider": "phincon.com",
+      "email": "mail@phincon.com",
+      "password": "Bethebest123",
+      "category": "work"
+    },
+    {
+      "id": "5",
+      "provider": "phincon.com",
+      "email": "mail@phincon.com",
+      "password": "Bethebest123",
+      "category": "work"
+    },
+    {
+      "id": "6",
+      "provider": "phincon.com",
+      "email": "mail@phincon.com",
+      "password": "Bethebest123",
+      "category": "work"
+    },
+    {
+      "id": "1e47",
+      "provider": "john.com",
+      "email": "mail@google.com",
+      "password": "test1234",
+      "category": "Family"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+@media screen and (min-width: 768px) {
+    .page-container {
+        padding: 0 150px;
+    }
+}
+
+.page-container {
+    margin: 0 10px;
+}
+
+table {
+    margin-top: 25px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px;
+    background-color: #f0f0f0;
+    border-bottom: 1px solid #ccc;
+}
+
+td {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+td:hover {
+    background-color: #f9f9f9;
+}
+
+.action-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.action-row>* {
+    cursor: pointer;
+}
+
+.modal-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+    max-width: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.modal-box h4 {
+    margin-top: 0;
+}
+
+.modal-box p {
+    margin-bottom: 20px;
+}
+
+.modal-button-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.modal-button-box button {
+    padding: 8px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.modal-button-box button:hover {
+    background-color: #f0f0f0;
+}
+
+.create-account-button{
+    padding: 10px;
+    background-color: lightblue;
+    color: black;
+    border: 0;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.category-dropdown{
+    margin: 25px 0;
+}
+
+.title-box{
+    margin: 25px 0;
+}
